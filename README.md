@@ -93,7 +93,7 @@ Borrowers having Prosper Score with 1, 5 and 6 and having Term of the Loan as 36
 
 Versioning:
 
-(1) Python 3
+(1) Python 3.8
 
 (2) Jupyter Notebooks IDE
 
