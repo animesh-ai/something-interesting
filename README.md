@@ -16,7 +16,7 @@ Loan Data from Prosper (which contained the data) with Prosper Data Dictionary t
 
 Installations:
 
-This project uses Python 3 and is completed through the Jupyter Notebooks IDE. 
+This project uses Python 3.8 and is completed through the Jupyter Notebooks IDE. 
 The Anaconda distribution is used to install Python, since the 
 distribution includes all necessary Python libraries as well as Jupyter Notebooks. 
 
